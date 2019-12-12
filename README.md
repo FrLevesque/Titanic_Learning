@@ -35,7 +35,7 @@ The project contains 3 main files :
 - `test_Titanic.py` contain a few unit tests.
 - `Data Visualisation.py` contains functions to visualise the effect of the data features used by the classifier on the
  modeled output (ie. the survival of Titanic passengers). Their output is stored in the `Data Visualisation` folder.
- [![INSERT YOUR GRAPHIC HERE](Data Visualisation/gender.png)]()
+ ![](https://github.com/FrLevesque/Titanic_Learning/blob/master/Data%20Visualisation/gender.png)
 
 
 ## ToDo
